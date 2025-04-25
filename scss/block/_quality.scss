@@ -1,0 +1,30 @@
+.quality__block {
+  background-image: url(../../images/quality-bcg.png);
+  background-repeat: no-repeat;
+  background-size: auto;
+  margin-top: 256px;
+  position: relative;
+}
+.quality__content {
+  padding: 88px 655px 176px 85px;
+}
+.quality__title {
+  font-family: var(--font-family);
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 120%;
+  color: #fefcf7;
+  margin-bottom: 32px;  
+}
+.quality__text {
+  font-family: var(--second-family);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 162%;
+  color: #fefcf7;
+}
+.quality__img{
+    position: absolute;
+    top: -90px;
+    left: 700px;
+}

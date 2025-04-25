@@ -1,0 +1,28 @@
+.footer{
+    margin-top: 200px;
+}
+.footer__block{
+    width: 100%;
+    background: #2c343e;
+    padding: 50px;
+}
+.footer__list{
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+}
+.footer__item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+}
+.footer__item__link{
+    font-family: var(--second-family);
+font-weight: 700;
+font-size: 12px;
+line-height: 125%;
+letter-spacing: 0.08em;
+text-transform: uppercase;
+color: #83888f;
+}

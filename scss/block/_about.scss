@@ -1,0 +1,23 @@
+.about__block{
+    background-image: url(../../images/about-bacground.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.about__content{
+    padding: 137px 750px 137px 85px;
+}
+.about__title{
+    font-family: var(--font-family);
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 120%;
+    color: #fefcf7;
+    padding-bottom: 24px;
+}
+.about__text{
+    font-family: var(--second-family);
+font-weight: 400;
+font-size: 16px;
+line-height: 162%;
+color: #fefcf7;
+}
